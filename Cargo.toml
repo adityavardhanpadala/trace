@@ -1,5 +1,5 @@
 [package]
-name = "silversh0t"
+name = "trace"
 version = "0.1.0"
 authors = ["Aditya Vardhan Padala <padalaadityavardhan@gmail.com>"]
 edition = "2018"
