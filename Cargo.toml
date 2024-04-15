@@ -1,0 +1,17 @@
+[package]
+name = "silversh0t"
+version = "0.1.0"
+authors = ["Aditya Vardhan Padala <padalaadityavardhan@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sha2 = "0.10"
+libc = "*"
+nix = "*"
+r2pipe = {git = "https://github.com/radareorg/r2pipe.rs"}
+serde_json = "*"
+iced-x86 = "*"
+env_logger = "*"
+log = "0.4.21"
